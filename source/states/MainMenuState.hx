@@ -28,7 +28,7 @@ class MainMenuState extends MusicBeatState
 		'story_mode',
 		'freeplay',
                 #if ACHIEVEMENTS_ALLOWED 'awards', #end
-		'credits'
+		'credits',
                 'options'
 	];
 
